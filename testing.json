@@ -3,8 +3,8 @@
   x 900,
   y 940,
   image [
-	  W,
-	  W
+	  "W",
+	  "W"
   ],
   colors {
     W 0,
